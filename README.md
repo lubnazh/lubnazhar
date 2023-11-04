@@ -1,2 +1,0 @@
-# lubnazhar
-kumpulan tugas 
